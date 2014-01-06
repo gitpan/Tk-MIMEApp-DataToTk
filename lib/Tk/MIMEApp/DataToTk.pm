@@ -10,11 +10,11 @@ Tk::MIMEApp::DataToTk - The great new Tk::MIMEApp::DataToTk!
 
 =head1 VERSION
 
-Version 0.01
+Version 0.02
 
 =cut
 
-our $VERSION = '0.01';
+our $VERSION = '0.02';
 
 use subs qw/data2tk/;
 require Exporter;
